@@ -1,0 +1,9 @@
+bin/ 
+obj/
+
+**/bin/debug/
+**/bin/release/ 
+
+*.pdb
+*.suo
+*.user
